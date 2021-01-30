@@ -1,2 +1,2 @@
-# csci347_p1
+# Project 1
 CSCI 347: Data Mining - Project 1
